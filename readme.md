@@ -5,6 +5,7 @@ If you are the publisher and think this repository should not be public, just wr
 
 Contributions: Issues, comments and pull requests are super welcome 😃
 There is a [Quick Reference](#quick-reference) at the end.
+There is also a [Pragmatic Python Programmer Guide](./pragmatic-python-programmer-guide.md) with Python examples for the concepts and tips.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Table of Contents
